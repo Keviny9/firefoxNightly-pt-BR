@@ -1,1 +1,0 @@
-# firefoxNightly-pt-BR
