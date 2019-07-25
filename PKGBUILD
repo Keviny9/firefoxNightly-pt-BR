@@ -3,11 +3,11 @@
 _name=firefox
 _channel=nightly
 _lang=pt-BR
-_version=69.0a1
-#_version=70.0a1
+#_version=69.0a1
+_version=70.0a1
 pkgname=${_name}-${_channel}
-pkgver=69.0a1.
-#pkgver=70.0a1.
+#pkgver=69.0a1.
+pkgver=70.0a1.
 pkgrel=1
 pkgdesc="Navegador independente da Mozilla - Nightly build (pt-BR)"
 arch=('i686' 'x86_64')
